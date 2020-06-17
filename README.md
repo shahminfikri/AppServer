@@ -16,18 +16,18 @@ AppServer is a Multi Talented Server System with versatile Use Cases. It works a
 ![Screenshot](https://github.com/bismay4u/AppServer/blob/master/build/screenshot.png)
 
 ### Upcoming Features
-- [ ] Autoupdate System
-- [ ] Port conflict resolution via porthog
-- [ ] Native System Notifications
-- [ ] Option to output logs to physical file
-- [ ] Multiple Themes
-- [ ] System Tray Support
-- [ ] "Run in Background" Mode
-- [ ] Log Filtering
-- [ ] Advanced Live Reload
-- [ ] Custom Response Headers
-- [ ] Multiple server root directories with different ports
-- [ ] Realtime connection monitoring & statistics
+- [x] Autoupdate System
+- [x] Port conflict resolution via porthog
+- [x] Native System Notifications
+- [x] Option to output logs to physical file
+- [x] Multiple Themes
+- [x] System Tray Support
+- [x] "Run in Background" Mode
+- [x] Log Filtering
+- [x] Advanced Live Reload
+- [x] Custom Response Headers
+- [x] Multiple server root directories with different ports
+- [x] Realtime connection monitoring & statistics
 
 
 This project is inspired from https://github.com/teseve/teseve. I thank the authors for this nice application and making it Open Source.
